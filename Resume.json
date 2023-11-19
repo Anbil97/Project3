@@ -1,0 +1,31 @@
+{
+    "resumeData": {
+      "name": "John Doe",
+      "contact": {
+        "email": "john.doe@example.com",
+        "phone": "+123 456 7890",
+        "address": "123 Main Street, Cityville"
+      },
+      "education": {
+        "degree": "Bachelor of Science in Computer Science",
+        "school": "University of Tech",
+        "year": 2015
+      },
+      "experience": [
+        {
+          "company": "TechCo",
+          "position": "Software Developer",
+          "years": 5
+        },
+        {
+          "company": "Web Solutions",
+          "position": "Frontend Developer",
+          "years": 2
+        }
+      ],
+      "skills": ["JavaScript", "React", "Node.js", "HTML", "CSS"]
+    }
+  }
+  
+  
+  

@@ -1,0 +1,12 @@
+{
+  "jsonData": {
+    "name": "John Doe",
+    "age": 30,
+    "skills": ["JavaScript", "HTML", "CSS"],
+    "experience": {
+      "company": "TechCo",
+      "position": "Software Developer",
+      "years": 5
+    }
+  }
+}
